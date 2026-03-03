@@ -13,7 +13,7 @@ Currently focused on Unity game development and backend systems.
 
 ---
 
-->🎮 Game Development Projects
+🎮 Game Development Projects
    
    🐦Flappy Bird(2D)
 A simple Flappy Bird clone built using Unity 2D and C#.  
